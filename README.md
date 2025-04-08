@@ -69,3 +69,20 @@ Você recebe:
 📲 Para comprar, fale comigo:
 - WhatsApp: [Clique aqui](http://wa.me/+5582981873291)
 - Email: jsaplication.mobile@exemplo.com
+
+
+## 🛡️ Termos de Licença
+
+A aquisição deste código fonte garante ao comprador uma **licença de uso comercial não transferível**, ou seja:
+
+✅ Você pode:
+- Usar o sistema em seus próprios projetos ou negócios
+- Prestar serviços para clientes com base nesta ferramenta
+- Customizar para uso próprio
+
+❌ Você **não pode**:
+- Revender ou redistribuir o código fonte para terceiros
+- Publicar o código em repositórios públicos
+- Comercializar o sistema como se fosse de sua autoria
+
+Ao adquirir este projeto, você concorda com estes termos.
