@@ -53,7 +53,7 @@ Este projeto foi desenvolvido com base em tecnologias open-source, respeitando s
 
 O código completo da extensão **CRM para WhatsApp Web 2025** está à venda por:
 
-🎯 **R$ 4.999 (pagamento único)**
+🎯 **R$ 2.000 (pagamento único)**
 
 Você recebe:
 - Código 100% funcional e pronto para uso
