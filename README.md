@@ -17,7 +17,7 @@ Gerencie seus contatos com eficiência:
 - Organize contatos em colunas (estágios personalizados)
 - Adicione novas colunas conforme seu processo
 - Mais controle, mais agilidade, melhor atendimento
-
+- agendamentos de messagens.
 ---
 
 ### 🧠 Integração com ChatGPT
@@ -42,9 +42,6 @@ Este projeto foi desenvolvido com base em tecnologias open-source, respeitando s
 - [`moduleRaid`](https://github.com/pedroslopez/moduleRaid) – Permite acesso interno a módulos do WhatsApp Web.  
   Licença: MIT – © Pedro S. Lopez
 
-- [`whatsapp-js`](https://github.com/wppconnect-team/whatsapp-js) – Biblioteca para integração e automação do WhatsApp Web.  
-  Licença: MIT – © Desenvolvedores do projeto whatsapp-js
-
 > 📌 O código-fonte desta extensão é uma implementação independente que utiliza essas bibliotecas como base para integração com o WhatsApp Web.
 
 
@@ -53,7 +50,7 @@ Este projeto foi desenvolvido com base em tecnologias open-source, respeitando s
 
 O código completo da extensão **CRM para WhatsApp Web 2025** está à venda por:
 
-🎯 **R$ 2.000 (pagamento único)**
+🎯 **R$ 1.000 (pagamento único)**
 
 Você recebe:
 - Código 100% funcional e pronto para uso
@@ -68,7 +65,6 @@ Você recebe:
 
 📲 Para comprar, fale comigo:
 - WhatsApp: [Clique aqui](http://wa.me/+5582981873291)
-- Email: jsaplication.mobile@exemplo.com
 
 
 ## 🛡️ Termos de Licença
@@ -79,10 +75,3 @@ A aquisição deste código fonte garante ao comprador uma **licença de uso com
 - Usar o sistema em seus próprios projetos ou negócios
 - Prestar serviços para clientes com base nesta ferramenta
 - Customizar para uso próprio
-
-❌ Você **não pode**:
-- Revender ou redistribuir o código fonte para terceiros
-- Publicar o código em repositórios públicos
-- Comercializar o sistema como se fosse de sua autoria
-
-Ao adquirir este projeto, você concorda com estes termos.
