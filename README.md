@@ -37,11 +37,6 @@ Tenha conforto visual e experiência fluida:
 
 ## 📚 Créditos e Bibliotecas Utilizadas
 
-Este projeto foi desenvolvido com base em tecnologias open-source, respeitando suas licenças e atribuições. As principais bibliotecas utilizadas são:
-
-- [`moduleRaid`](https://github.com/pedroslopez/moduleRaid) – Permite acesso interno a módulos do WhatsApp Web.  
-  Licença: MIT – © Pedro S. Lopez
-
 > 📌 O código-fonte desta extensão é uma implementação independente que utiliza essas bibliotecas como base para integração com o WhatsApp Web.
 
 
@@ -50,7 +45,7 @@ Este projeto foi desenvolvido com base em tecnologias open-source, respeitando s
 
 O código completo da extensão **CRM para WhatsApp Web 2025** está à venda por:
 
-🎯 **R$ 1.000 (pagamento único)**
+🎯 **R$ 499,99 (pagamento único)**
 
 Você recebe:
 - Código 100% funcional e pronto para uso
@@ -65,13 +60,3 @@ Você recebe:
 
 📲 Para comprar, fale comigo:
 - WhatsApp: [Clique aqui](http://wa.me/+5582981873291)
-
-
-## 🛡️ Termos de Licença
-
-A aquisição deste código fonte garante ao comprador uma **licença de uso comercial não transferível**, ou seja:
-
-✅ Você pode:
-- Usar o sistema em seus próprios projetos ou negócios
-- Prestar serviços para clientes com base nesta ferramenta
-- Customizar para uso próprio
