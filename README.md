@@ -50,7 +50,6 @@ O código completo da extensão **CRM para WhatsApp Web 2025** está à venda po
 Você recebe:
 - Código 100% funcional e pronto para uso
 - CRM estilo Kanban integrado ao WhatsApp Web
-- Suporte para instalação inicial
 - Codigo todo documentado: facilita melhorias e intedimento do codigo e sua atualização.
 - Interface responsiva, com suporte a modo claro/escuro automatico do sistema
 
@@ -60,3 +59,16 @@ Você recebe:
 
 📲 Para comprar, fale comigo:
 - WhatsApp: [Clique aqui](http://wa.me/+5582981873291)
+- Video [youtube](https://youtu.be/De__yLK3pe8?si=comli0c1aahdZzs3)
+
+
+###Atenção dispenço coriosos.
+
+- nao acompanha painel para geraçao de licenças. 
+- nao é igual o waSpeed entre outras do mercado super completa.
+- nao tem disparo em massa de mensagens.
+- so entre em contato se realmente deseja comprar o codigo fonte.
+- nao aceito parcerias nem troca apenaa venda do codigo. valor abaixo do anuncio irei ignorar. 
+- se quer algo completo essa nao é para voce. 
+- assista o video antes de entrar em contato. 
+- pagamento pix. paga primeiro depois recebe o zip da extensão.
